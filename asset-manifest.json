@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/legitymacjaS/static/css/main.f839746f.css",
-    "main.js": "/legitymacjaS/static/js/main.19bc2d9a.js",
-    "static/js/453.01f96d4d.chunk.js": "/legitymacjaS/static/js/453.01f96d4d.chunk.js",
-    "static/media/oryginal2.png": "/legitymacjaS/static/media/oryginal2.91d7efa0aa72c6932a28.png",
-    "static/media/projekt.gif": "/legitymacjaS/static/media/projekt.802309c419ad3572cd16.gif",
-    "static/media/zdjecie.JPG": "/legitymacjaS/static/media/zdjecie.1ae701a7d65428cd37b2.JPG",
-    "static/media/bodylegitki.png": "/legitymacjaS/static/media/bodylegitki.06f3aec0a976d20aa7ed.png",
-    "static/media/strzala.png": "/legitymacjaS/static/media/strzala.dff4a7ed4f128d5b534d.png",
-    "static/media/legitkadol.JPEG": "/legitymacjaS/static/media/legitkadol.c356bd991fdcf18000d9.JPEG",
-    "static/media/tlo.png": "/legitymacjaS/static/media/tlo.6599770d4fce9dc5286c.png",
-    "static/media/kropki.png": "/legitymacjaS/static/media/kropki.4711a56074343c2494fd.png",
-    "index.html": "/legitymacjaS/index.html",
-    "main.f839746f.css.map": "/legitymacjaS/static/css/main.f839746f.css.map",
-    "main.19bc2d9a.js.map": "/legitymacjaS/static/js/main.19bc2d9a.js.map",
-    "453.01f96d4d.chunk.js.map": "/legitymacjaS/static/js/453.01f96d4d.chunk.js.map"
+    "main.css": "/legitBoonio/static/css/main.c4ac42f2.css",
+    "main.js": "/legitBoonio/static/js/main.cbbcc44a.js",
+    "static/js/453.01f96d4d.chunk.js": "/legitBoonio/static/js/453.01f96d4d.chunk.js",
+    "static/media/oryginal2.png": "/legitBoonio/static/media/oryginal2.91d7efa0aa72c6932a28.png",
+    "static/media/projekt.gif": "/legitBoonio/static/media/projekt.802309c419ad3572cd16.gif",
+    "static/media/zdjecie.JPG": "/legitBoonio/static/media/zdjecie.1ae701a7d65428cd37b2.JPG",
+    "static/media/bodylegitki.png": "/legitBoonio/static/media/bodylegitki.06f3aec0a976d20aa7ed.png",
+    "static/media/strzala.png": "/legitBoonio/static/media/strzala.dff4a7ed4f128d5b534d.png",
+    "static/media/legitkadol.JPEG": "/legitBoonio/static/media/legitkadol.c356bd991fdcf18000d9.JPEG",
+    "static/media/tlo.png": "/legitBoonio/static/media/tlo.6599770d4fce9dc5286c.png",
+    "static/media/kropki.png": "/legitBoonio/static/media/kropki.4711a56074343c2494fd.png",
+    "index.html": "/legitBoonio/index.html",
+    "main.c4ac42f2.css.map": "/legitBoonio/static/css/main.c4ac42f2.css.map",
+    "main.cbbcc44a.js.map": "/legitBoonio/static/js/main.cbbcc44a.js.map",
+    "453.01f96d4d.chunk.js.map": "/legitBoonio/static/js/453.01f96d4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f839746f.css",
-    "static/js/main.19bc2d9a.js"
+    "static/css/main.c4ac42f2.css",
+    "static/js/main.cbbcc44a.js"
   ]
 }
