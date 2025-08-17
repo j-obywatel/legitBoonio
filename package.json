@@ -2,7 +2,7 @@
   "name": "legitbunio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://j-obywatel.github.io/legitymacjaS/",
+  "homepage": "https://j-obywatel.github.io/legitBoonio/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.7.0",
