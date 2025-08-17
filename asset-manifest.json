@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/legitymacjaS/static/css/main.4b96a624.css",
+    "main.css": "/legitymacjaS/static/css/main.f839746f.css",
     "main.js": "/legitymacjaS/static/js/main.19bc2d9a.js",
     "static/js/453.01f96d4d.chunk.js": "/legitymacjaS/static/js/453.01f96d4d.chunk.js",
-    "static/media/oryginal2.png": "/legitymacjaS/static/media/oryginal2.e13d24e9f9836c01a78f.png",
+    "static/media/oryginal2.png": "/legitymacjaS/static/media/oryginal2.91d7efa0aa72c6932a28.png",
     "static/media/projekt.gif": "/legitymacjaS/static/media/projekt.802309c419ad3572cd16.gif",
     "static/media/zdjecie.JPG": "/legitymacjaS/static/media/zdjecie.1ae701a7d65428cd37b2.JPG",
     "static/media/bodylegitki.png": "/legitymacjaS/static/media/bodylegitki.06f3aec0a976d20aa7ed.png",
@@ -12,12 +12,12 @@
     "static/media/tlo.png": "/legitymacjaS/static/media/tlo.6599770d4fce9dc5286c.png",
     "static/media/kropki.png": "/legitymacjaS/static/media/kropki.4711a56074343c2494fd.png",
     "index.html": "/legitymacjaS/index.html",
-    "main.4b96a624.css.map": "/legitymacjaS/static/css/main.4b96a624.css.map",
+    "main.f839746f.css.map": "/legitymacjaS/static/css/main.f839746f.css.map",
     "main.19bc2d9a.js.map": "/legitymacjaS/static/js/main.19bc2d9a.js.map",
     "453.01f96d4d.chunk.js.map": "/legitymacjaS/static/js/453.01f96d4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b96a624.css",
+    "static/css/main.f839746f.css",
     "static/js/main.19bc2d9a.js"
   ]
 }
