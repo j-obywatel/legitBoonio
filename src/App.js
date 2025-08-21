@@ -3,6 +3,7 @@ import "./App.css";
 
 function App() {
   const [date, setDate] = useState(new Date());
+  const [isExpanded, setIsExpanded] = useState(false); // toggle state
 
   const myDate = date.toLocaleString("pl-PL", {
     minute: "numeric",
@@ -24,6 +25,11 @@ function App() {
     };
   }, []);
 
+  // function to toggle class
+  const toggleUni = () => {
+    setIsExpanded((prev) => !prev);
+  };
+
   return (
     <>
       <div className="gora"></div>
@@ -32,8 +38,11 @@ function App() {
           <div className="profil"></div>
         </div>
       </div>
-      <div className="uni" />
-      {/* <div className="unirozw" /> */}
+      <div
+        className={isExpanded ? "unirozw" : "uni"}
+        onClick={toggleUni}
+        style={{ cursor: "pointer" }}
+      />
       <div className="bodydol">
         <div className="date">
           {mySecondDate} {""}
@@ -41,7 +50,6 @@ function App() {
         </div>
       </div>
       <div className="dol" />
-      {/* <div className="whitespace" /> */}
     </>
   );
 }
