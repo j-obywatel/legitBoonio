@@ -31,13 +31,17 @@ function App() {
         <div className="projekt">
           <div className="profil"></div>
         </div>
+      </div>
+      <div className="uni" />
+      {/* <div className="unirozw" /> */}
+      <div className="bodydol">
         <div className="date">
           {mySecondDate} {""}
           {myDate}
         </div>
       </div>
       <div className="dol" />
-      <div className="whitespace" />
+      {/* <div className="whitespace" /> */}
     </>
   );
 }

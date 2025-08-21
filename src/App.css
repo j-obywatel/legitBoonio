@@ -114,17 +114,35 @@ height: 96px;
 .date {
   font-size: small;
   width: auto;
-  height: 446px;
+  height: 37px;
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  margin-left: 29px;
+  margin-left: -44px;
   font-weight: bold;
 }
 
 .srodek {
-  background: center / cover no-repeat url("../public/images/oryginal2.png");
-  height: 640px;
+  background: center / cover no-repeat url("../public/images/gorapol.png");
+  height: 354px;
+  width: 390px;
+}
+
+.uni {
+  background: center / cover no-repeat url("../public/images/uczelnia.png");
+  height: 42px;
+  width: 390px;
+}
+
+.unirozw {
+  background: center / cover no-repeat url("../public/images/unirozw.png");
+  height: 99px;
+  width: 390px;
+}
+
+.bodydol {
+  background: center / cover no-repeat url("../public/images/goradol.png");
+  height: 225px;
   width: 390px;
 }
 
@@ -139,15 +157,15 @@ height: 96px;
   width: 55px;
   height: 41px;
   float: right;
-  margin-right: 18px;
+  margin-right: 26px;
   margin-top: 15px;
 }
 
 .profil {
-  bottom: -101px;
-  right: 301px;
-  width: 127px;
-  height: 169px;
+  bottom: -97px;
+  right: 289px;
+  width: 124px;
+  height: 167px;
   position: relative;
   border-radius: 25px;
   background: center / cover no-repeat url("../public/images/zdjecie.JPG");
