@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/legitBoonio/static/css/main.684ebcf7.css",
+    "main.css": "/legitBoonio/static/css/main.ca806456.css",
     "main.js": "/legitBoonio/static/js/main.9e382439.js",
     "static/js/453.01f96d4d.chunk.js": "/legitBoonio/static/js/453.01f96d4d.chunk.js",
     "static/media/projekt.gif": "/legitBoonio/static/media/projekt.802309c419ad3572cd16.gif",
@@ -15,12 +15,12 @@
     "static/media/tlo.png": "/legitBoonio/static/media/tlo.6599770d4fce9dc5286c.png",
     "static/media/kropki.png": "/legitBoonio/static/media/kropki.4711a56074343c2494fd.png",
     "index.html": "/legitBoonio/index.html",
-    "main.684ebcf7.css.map": "/legitBoonio/static/css/main.684ebcf7.css.map",
+    "main.ca806456.css.map": "/legitBoonio/static/css/main.ca806456.css.map",
     "main.9e382439.js.map": "/legitBoonio/static/js/main.9e382439.js.map",
     "453.01f96d4d.chunk.js.map": "/legitBoonio/static/js/453.01f96d4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.684ebcf7.css",
+    "static/css/main.ca806456.css",
     "static/js/main.9e382439.js"
   ]
 }
