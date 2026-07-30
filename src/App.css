@@ -106,7 +106,7 @@ height: 96px;
 
 .dol {
   background: center / cover no-repeat url("../public/images/legitkadol.JPEG");
-  width: 390px;
+  width: 420px;
   height: 63px;
   margin-top: -10px;
 }
@@ -114,7 +114,7 @@ height: 96px;
 .date {
   font-size: small;
   width: auto;
-  height: 37px;
+  height: 30px;
   display: flex;
   align-items: flex-end;
   justify-content: center;
@@ -124,48 +124,48 @@ height: 96px;
 
 .srodek {
   background: center / cover no-repeat url("../public/images/gorapol1.png");
-  height: 354px;
-  width: 390px;
+  height: 382px;
+  width: 420px;
 }
 
 .uni {
   background: center / cover no-repeat url("../public/images/uczelnia.png");
   height: 42px;
-  width: 390px;
+  width: 420px;
 }
 
 .unirozw {
   background: center / cover no-repeat url("../public/images/unirozw.png");
   height: 99px;
-  width: 390px;
+  width: 420px;
 }
 
 .bodydol {
   background: center / cover no-repeat url("../public/images/goradol.png");
   height: 225px;
-  width: 390px;
+  width: 420px;
 }
 
 .gora {
   background: center / cover no-repeat url("../public/images/legitka-gora.png");
-  width: 390px;
+  width: 420px;
   height: 53px;
 }
 
 .projekt {
   background: center / cover no-repeat url("../public/images/projekt.gif");
-  width: 55px;
-  height: 41px;
+  width: 56px;
+  height: 43px;
   float: right;
   margin-right: 26px;
   margin-top: 15px;
 }
 
 .profil {
-  bottom: -97px;
-  right: 289px;
-  width: 124px;
-  height: 167px;
+  bottom: -106px;
+  right: 315px;
+  width: 132px;
+  height: 177px;
   position: relative;
   border-radius: 25px;
   background: center / cover no-repeat url("../public/images/zdjecie.JPG");
@@ -173,6 +173,6 @@ height: 96px;
 
 .whitespace {
   background: center / cover no-repeat url("../public/images/tloo.jpg");
-  width: 390px;
+  width: 420px;
   height: 148px;
 }
