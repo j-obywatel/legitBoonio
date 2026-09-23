@@ -38,7 +38,6 @@ function App() {
         <div className="projekt"></div>
       </div>
       <div className="dol" />
-      <div className="whitespace" />
     </>
   );
 }
