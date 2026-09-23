@@ -1,26 +1,20 @@
 {
   "files": {
-    "main.css": "/legitBoonio/static/css/main.83e07840.css",
-    "main.js": "/legitBoonio/static/js/main.9e382439.js",
+    "main.css": "/legitBoonio/static/css/main.cfe932a3.css",
+    "main.js": "/legitBoonio/static/js/main.1f6b503d.js",
     "static/js/453.01f96d4d.chunk.js": "/legitBoonio/static/js/453.01f96d4d.chunk.js",
-    "static/media/projekt.gif": "/legitBoonio/static/media/projekt.802309c419ad3572cd16.gif",
-    "static/media/gorapol.png": "/legitBoonio/static/media/gorapol.ea51c7ed5017d607c7dd.png",
-    "static/media/goradol.png": "/legitBoonio/static/media/goradol.1806135f6a3579c57331.png",
+    "static/media/flaga.gif": "/legitBoonio/static/media/flaga.5d3b4b6b7e9dfc1eecbe.gif",
+    "static/media/nowa.png": "/legitBoonio/static/media/nowa.563b80580ebb442d4615.png",
     "static/media/zdjecie.JPG": "/legitBoonio/static/media/zdjecie.1ae701a7d65428cd37b2.JPG",
-    "static/media/unirozw.png": "/legitBoonio/static/media/unirozw.cc167cf187ae8ed46b8a.png",
     "static/media/bodylegitki.png": "/legitBoonio/static/media/bodylegitki.06f3aec0a976d20aa7ed.png",
-    "static/media/strzala.png": "/legitBoonio/static/media/strzala.dff4a7ed4f128d5b534d.png",
-    "static/media/legitkadol.JPEG": "/legitBoonio/static/media/legitkadol.c356bd991fdcf18000d9.JPEG",
-    "static/media/uczelnia.png": "/legitBoonio/static/media/uczelnia.1a59dcfad19e645ed771.png",
-    "static/media/tlo.png": "/legitBoonio/static/media/tlo.6599770d4fce9dc5286c.png",
-    "static/media/kropki.png": "/legitBoonio/static/media/kropki.4711a56074343c2494fd.png",
+    "static/media/legitkadol.png": "/legitBoonio/static/media/legitkadol.bf49101e56cd878f00c8.png",
     "index.html": "/legitBoonio/index.html",
-    "main.83e07840.css.map": "/legitBoonio/static/css/main.83e07840.css.map",
-    "main.9e382439.js.map": "/legitBoonio/static/js/main.9e382439.js.map",
+    "main.cfe932a3.css.map": "/legitBoonio/static/css/main.cfe932a3.css.map",
+    "main.1f6b503d.js.map": "/legitBoonio/static/js/main.1f6b503d.js.map",
     "453.01f96d4d.chunk.js.map": "/legitBoonio/static/js/453.01f96d4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83e07840.css",
-    "static/js/main.9e382439.js"
+    "static/css/main.cfe932a3.css",
+    "static/js/main.1f6b503d.js"
   ]
 }
