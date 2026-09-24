@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/legitBoonio/static/css/main.ee387285.css",
+    "main.css": "/legitBoonio/static/css/main.dbeb90f2.css",
     "main.js": "/legitBoonio/static/js/main.ab929d32.js",
     "static/js/453.01f96d4d.chunk.js": "/legitBoonio/static/js/453.01f96d4d.chunk.js",
     "static/media/flaga.gif": "/legitBoonio/static/media/flaga.5d3b4b6b7e9dfc1eecbe.gif",
-    "static/media/nowa.png": "/legitBoonio/static/media/nowa.563b80580ebb442d4615.png",
+    "static/media/nowa.png": "/legitBoonio/static/media/nowa.7fa658e5b26b2c20c7db.png",
     "static/media/zdjecie.JPG": "/legitBoonio/static/media/zdjecie.1ae701a7d65428cd37b2.JPG",
     "static/media/bodylegitki.png": "/legitBoonio/static/media/bodylegitki.06f3aec0a976d20aa7ed.png",
     "static/media/legitkadol.png": "/legitBoonio/static/media/legitkadol.bf49101e56cd878f00c8.png",
     "index.html": "/legitBoonio/index.html",
-    "main.ee387285.css.map": "/legitBoonio/static/css/main.ee387285.css.map",
+    "main.dbeb90f2.css.map": "/legitBoonio/static/css/main.dbeb90f2.css.map",
     "main.ab929d32.js.map": "/legitBoonio/static/js/main.ab929d32.js.map",
     "453.01f96d4d.chunk.js.map": "/legitBoonio/static/js/453.01f96d4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee387285.css",
+    "static/css/main.dbeb90f2.css",
     "static/js/main.ab929d32.js"
   ]
 }
